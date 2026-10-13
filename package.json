@@ -94,7 +94,7 @@
     "jsdom": "~28.1.0",
     "jsonc-eslint-parser": "^2.1.0",
     "nodemon": "^3.1.10",
-    "nx": "23.1.0",
+    "nx": "23.2.1",
     "pg-mem": "^3.0.5",
     "prettier": "^3.7.4",
     "pretty-quick": "^4.2.2",
